@@ -6,7 +6,9 @@ import { CommonModule } from "@angular/common";
   standalone: true,
   imports: [CommonModule],
   template: `
-    
+    <section>
+      <div></div>
+    </section>    
   `,
   styleUrls: ["./housing-location.component.css"],
 })
