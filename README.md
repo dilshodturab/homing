@@ -19,3 +19,11 @@
 - Run the application
 
   `ng serve`
+
+# Preview
+
+![Diagram](./src/assets/CopyQ.IlbKPx.png)
+
+![Diagram](./src/assets/CopyQ.jDGdTE.png)
+
+![Diagram](./src/assets/CopyQ.MVojNm.png)
