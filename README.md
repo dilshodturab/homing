@@ -12,7 +12,7 @@
 
   `cd homes-app`
 
-- Install the depencies
+- Install the dependencies
 
   `npm install`
 
